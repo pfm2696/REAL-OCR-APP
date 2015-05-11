@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E473C86C-F138-4051-B551-FD987C2B4B01</string>
+	<key>IDESourceControlProjectName</key>
+	<string>REAL</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FE5DE9F016FE2B2F3478E56D6C712CA9CE456E5F</key>
+		<string>https://github.com/pfm2696/REAL-OCR-APP.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>REAL.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FE5DE9F016FE2B2F3478E56D6C712CA9CE456E5F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pfm2696/REAL-OCR-APP.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FE5DE9F016FE2B2F3478E56D6C712CA9CE456E5F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FE5DE9F016FE2B2F3478E56D6C712CA9CE456E5F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>REAL</string>
+		</dict>
+	</array>
+</dict>
+</plist>

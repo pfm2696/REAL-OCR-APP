@@ -17,9 +17,6 @@
 		041EDBF11A625D9200ECDA48 /* Swap.png in Resources */ = {isa = PBXBuildFile; fileRef = 041EDBEF1A625D9200ECDA48 /* Swap.png */; };
 		0C7E76F51AF754F900DEFC37 /* image1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C7E76F41AF754F900DEFC37 /* image1.png */; };
 		0C7E76F71AF755A200DEFC37 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C7E76F61AF755A200DEFC37 /* logo.png */; };
-		0CF7AE0A1AE5DAB500E3B1A1 /* SignupVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CF7AE091AE5DAB500E3B1A1 /* SignupVC.swift */; };
-		0CF7AE0C1AE5DC7600E3B1A1 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CF7AE0B1AE5DC7600E3B1A1 /* LoginVC.swift */; };
-		0CF7AE0E1AE5DE0E00E3B1A1 /* ForgotPasswordVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CF7AE0D1AE5DE0D00E3B1A1 /* ForgotPasswordVC.swift */; };
 		0CFF377E1AE34AD800493FEA /* tessdata in Resources */ = {isa = PBXBuildFile; fileRef = 0CFF377D1AE34AD800493FEA /* tessdata */; };
 		0CFF37801AE34AE000493FEA /* TesseractOCR.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0CFF377F1AE34AE000493FEA /* TesseractOCR.framework */; };
 		0CFF37821AE34BB200493FEA /* libstdc++.6.0.9.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 0CFF37811AE34BB200493FEA /* libstdc++.6.0.9.dylib */; };
@@ -52,9 +49,6 @@
 		041EDBEF1A625D9200ECDA48 /* Swap.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Swap.png; sourceTree = "<group>"; };
 		0C7E76F41AF754F900DEFC37 /* image1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image1.png; path = tessdata/image1.png; sourceTree = "<group>"; };
 		0C7E76F61AF755A200DEFC37 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
-		0CF7AE091AE5DAB500E3B1A1 /* SignupVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignupVC.swift; sourceTree = "<group>"; };
-		0CF7AE0B1AE5DC7600E3B1A1 /* LoginVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
-		0CF7AE0D1AE5DE0D00E3B1A1 /* ForgotPasswordVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForgotPasswordVC.swift; sourceTree = "<group>"; };
 		0CFF377D1AE34AD800493FEA /* tessdata */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tessdata; sourceTree = "<group>"; };
 		0CFF377F1AE34AE000493FEA /* TesseractOCR.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TesseractOCR.framework; path = LoveInASnap/TesseractOCR.framework; sourceTree = "<group>"; };
 		0CFF37811AE34BB200493FEA /* libstdc++.6.0.9.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libstdc++.6.0.9.dylib"; path = "usr/lib/libstdc++.6.0.9.dylib"; sourceTree = SDKROOT; };
@@ -114,9 +108,6 @@
 				041EDBD01A625CEC00ECDA48 /* ViewController.swift */,
 				041EDBD21A625CEC00ECDA48 /* Main.storyboard */,
 				0CFF37891AE34E7F00493FEA /* MainPageVC.swift */,
-				0CF7AE091AE5DAB500E3B1A1 /* SignupVC.swift */,
-				0CF7AE0D1AE5DE0D00E3B1A1 /* ForgotPasswordVC.swift */,
-				0CF7AE0B1AE5DC7600E3B1A1 /* LoginVC.swift */,
 				041EDBD51A625CEC00ECDA48 /* Images.xcassets */,
 				041EDBD71A625CEC00ECDA48 /* LaunchScreen.xib */,
 				041EDBCC1A625CEC00ECDA48 /* Supporting Files */,
@@ -262,12 +253,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0CF7AE0A1AE5DAB500E3B1A1 /* SignupVC.swift in Sources */,
 				0CFF378A1AE34E7F00493FEA /* MainPageVC.swift in Sources */,
-				0CF7AE0E1AE5DE0E00E3B1A1 /* ForgotPasswordVC.swift in Sources */,
 				041EDBD11A625CEC00ECDA48 /* ViewController.swift in Sources */,
 				041EDBCF1A625CEC00ECDA48 /* AppDelegate.swift in Sources */,
-				0CF7AE0C1AE5DC7600E3B1A1 /* LoginVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

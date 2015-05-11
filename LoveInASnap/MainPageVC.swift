@@ -9,14 +9,9 @@
 import UIKit
 
 class MainPageVC: UIViewController {
-  @IBAction func logIn(sender: AnyObject) {
-    self.performSegueWithIdentifier("loginMain", sender: self)
+  
+  @IBAction func enter(sender: AnyObject) {
+    self.performSegueWithIdentifier("main", sender: self)
   }
   
-  @IBAction func signupButton(sender: AnyObject) {
-    self.performSegueWithIdentifier("signupMain", sender: self)
-
-  }
-  
-
 }
